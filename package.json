@@ -16,7 +16,7 @@
   "keywords": [],
   "author": "Muhammad Zourdy",
   "engines": {
-    "node": "16.13.0"
+    "node": "18.12.1"
   },
   "license": "ISC",
   "dependencies": {
@@ -30,7 +30,7 @@
     "@types/jsonwebtoken": "^8.5.6",
     "@types/mongoose": "^5.11.97",
     "@types/morgan": "^1.9.3",
-    "@types/node": "^17.0.10",
+    "@types/node": "^18.0.0",
     "@types/nodemailer": "^6.4.4",
     "bcrypt": "^5.0.1",
     "codecov": "^3.8.3",
